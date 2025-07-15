@@ -5,4 +5,4 @@ export const COLORS = {
   text: "#212121",
   white: "#FFFFFF",
   danger: "#F44336",
-};
+}
